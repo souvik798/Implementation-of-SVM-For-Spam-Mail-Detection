@@ -80,7 +80,7 @@ accuracy
 
 
 
-6. Accuracy Value:
+5. Accuracy Value:
 
 ![5s](https://github.com/souvik798/Implementation-of-SVM-For-Spam-Mail-Detection/assets/94752764/bef25bab-42a9-43e0-954f-af61e7d8267b)
 
